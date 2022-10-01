@@ -1,4 +1,4 @@
-# 📕[Study Title]
+# 📕UI/UX Study
 Add a study introduction
 
 # 📝Study Curriculum
