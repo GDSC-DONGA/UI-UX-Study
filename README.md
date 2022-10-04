@@ -22,7 +22,7 @@
 > - Design the same UI as it actually exists
 >
 > **Week 6. Fake Project Design - Web or App**<br>
-> -UI/UX design for a given situation
+> - UI/UX design for a given situation
 >
 > **Week 7.Programming Designer - HTML, CSS**<br>
 > - Tags and Properties
