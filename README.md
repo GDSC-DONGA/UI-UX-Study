@@ -37,6 +37,10 @@
 Organize this week's homework
 
 # 📑Study Reference
-Share study reference
-
+> **영감을 얻는 디자인 사이트** <br>
+[One Page Love](https://onepagelove.com/) <br>
+[Awwwards](https://www.awwwards.com/) <br>
+[Dribbble](https://dribbble.com/) <br>
+[Design Pttrns](https://www.pttrns.com/) <br>
+[UI Movement](https://screenlane.com/?ref=uimovement) <br>
 
