@@ -1,0 +1,208 @@
+contents
+1. Definition and Differences Between UI and UX
+2. Color
+3. Balance
+4. Contrast
+5. Typography
+6. Consistency
+▶ Definition and Differences Between UI and UX
+1. What is UI Design?
+- With the help of certain graphics solutions, it is intuitive, attractive and 
+easy to use. - The main mission of the UI designer: to help users quickly understand how 
+to use the product and understand the interface in a simple and intuitive 
+way. - Target analysis, design research, branding and graphic design 
+development, UI guidelines creation, UI prototyping, interaction and animation 
+development, and various screen scaling.
+2. What is UX Design?
+- To ensure that the product is logical, convenient and useful; - Key goal: Make sure your website or app only makes a pleasant 
+impression. - Many people simply interpret UX as "user experience", but the actual UX is 
+to follow the user experience design process.
+UX design goes through a process very similar to that of science. (Conduct 
+research to understand users, meet their needs, come up with ideas, and 
+implement them in real life) - Competitor analysis, customer analysis, content development.
+3. Core
+= UX designers focus on functionality, while UI designers focus on aesthetics, 
+sensation and style.
+= Design for people you don't know a little bit more than you.
+▶ Color - Colors have meaning and can make it look like you are moving forward or 
+backward. - The color itself is also a function. - Three key principles of design: consistency, uniqueness, and intentionality.
+* Meaning of capture
+Even the same object can have different meanings when you add color. (If 
+you choose a color on purpose, it must have meaning.)
+*Points to note when choosing colors
+1. Are you designing for a new product or an existing brand?
+Example: New brand = free desired color / existing = limited.
+2. Do you understand your users?
+This is because color affects the user's emotions when interacting with the 
+product.
+3. Do you accept the principles of the W3C?
+Make sure all personas with color disabilities have access to the product.
+ü <When deciding on a color>
+please catch the main color first.
+= 1~3 base colors ideally associated easily with the brand or product
+ü <Black and White>
+Best way = Use a limited grayscale palette made with medium black color 
+with white tints added. - Always add saturation to the color and look more natural and 
+user-friendly. - Avoid pure gray without color.
+ü <Use the same accented colors>
+Consistent core = use the same color for both links and buttons.
+ü <Using Semantic Colors>
+What is semantic color?
+= Color used to represent user information about successes, errors, and 
+warnings.
+ü <Rule 60-30-10>
+Designing at this ratio reduces user confusion and confusion.
+60% = main color (achromatic color pleasant to the eye)
+30% = secondary color (visual interest as opposed to main color)
+10% = emphasis and guide color (should be the most vivid because important 
+items need to be highlighted)
+# Tip.
+https://coolors.co/image-picker : When you upload a photo or image, a color 
+palette is automatically created.
+https://www.figma.com/c/plugin/731841207668879837/Image-Palette: Click on an 
+image or photo in the Pygma plugin and run the plugin to create a palette of 
+5 colors.
+https://artsexperiments.withgoogle.com/artpalette/colors/342420-d5c47e-0f0c11: 
+Derive colors from masterpieces and ancient works of art. However, even if 
+you upload a photo, the corresponding color value is derived.
+▶ Balance
+- Users feel that symmetric objects are stable and orderly, so it is better to 
+visualize them so that they have symmetry. (Enhances visual attention)
+<‘Gestalt theory’, ‘law of symmetry’>
+= First of all, a symmetrical structure is to place elements in the same 
+configuration and position that does not interfere with the user's field of view. 
+Conversely, asymmetric structures are used to direct attention to certain 
+elements.
+(Symmetric design example)
+= 'SK Devin' website
+By inverting the visual image in the main copy, which can convey the brand 
+identity in the center of the frame, the company uses a strong contrast to 
+express its identity.
+(Example of asymmetry)
+='Kucon'
+Design elements are placed in the lower-left corner to highlight content.
+(Example of using symmetry and asymmetry together)
+=Pinterest login screen
+Align image cards with different vertical values in six columns of the same 
+width for a balanced layout and dynamic visuals. It also centers the 
+high-importance login screen to express gaze attention.
+▶ Contrast
+: The differences attract people's attention, and the contrast emphasizes the 
+differences.
+Therefore, an important design element that allows designers to add value to 
+a particular part or prioritize it compared to other parts is "contrast". - Generally, people only perceive contrast as something about color, but in 
+practice contrast is used more than that.
+For example, there are closures and openings, fills and skies, symmetry and 
+asymmetry, large and small elements, fills and borders only, serif and 
+sans-serif bodies, tidiness and chaos. - To summarize some effects of many examples:
+First of all, "elements made large and small" not only give a great image of 
+the structure of the content, but also provide a pleasant visual experience.
+Then you can prioritize and display the "border fill and drawing".
+*https://naver.me/FbiWxSPt
+: The photos in the resources above will make it easier to understand.
+▶ typography
+- Typography transforms language into brilliant visual elements. 
+Therefore, it should be understood as a larger concept than just "design 
+skills". It also has a much longer history than the design and the Internet 
+itself. - So what is "typography"?
+A: Typography is defined as the art and science of font styles, appearances, 
+and structures aimed at conveying aesthetic features and easy-to-read copy 
+to the reader.
+* Typography is essential for efficient design. Why is that?
+A1: Basic knowledge of typography will help you understand the visual 
+display characteristics of fonts and their impact on user perception. By 
+setting the right font and presentation style, you can convey a specific mood 
+and message to your readers. In this way, typography helps design and 
+people communicate.
+A2: Inefficient typography instills frustration. Even if people don't read the 
+copy, they skim through it. However, if the font is not appropriate, people 
+don't want to know about the suggestions and products related to the font.
+* Process of creating detailed typography - Understand the difference between fonts and typefaces: A font is a 
+graphical description of text characteristics that are primarily used for one 
+particular typeface, size, and thickness. Typefaces, on the other hand, are a 
+style of type design that includes the maximum range of characteristics of all 
+sizes and weights. Simply put, the typeface is wide and the font is partial.
+<Mean line & Baseline>
+- Typically, characters are arranged in straight lines to produce a clean 
+visual presentation. - Meanline is the line that marks the top, and the baseline is the line that 
+marks the bottom, and these lines allow you to create fonts.
+<Character measurement>
+- To distinguish between different types of information and to show important 
+parts, apply different weights and sizes to fonts. - The height of text is called x-height and affects the smooth appearance of 
+text.
+<Ascender & Descender>
+- Ascender means the part that goes up the average line, and descender 
+means the part that goes down the baseline.
+<White Space>
+- White space is the area between design components. If this is not 
+balanced, it will be difficult to read, so copying will be an important part.
+<Alignment>
+- Alignment is the act of arranging and matching text to transform randomly 
+placed text into a unified composition. 
+(Center-aligning long sentences reduces readability.)
+<Tracking> - The process of tracking adjusts the space between words and groups of 
+type letters that form blocks of text. Thus, effective tracking makes the 
+characters easier to read. - Narrow the spacing of text with a large font size, such as titles, and make 
+the spacing narrower than the title text for text sizes such as text.
+<Kerning>
+-While tracking refers to the spacing between all characters in a font, 
+kerning is the process of adjusting the space between two types of 
+characters. 
+Kerning is the act of adjusting the distance between two specific characters 
+to make them more natural.
+<Leading>
+- Leading is the interval between baselines in a copy. Proper leading makes 
+it easy for the reader to move from one line of text to another, and clearly 
+represents large pieces of text. 
+(The standard leading the design is 120%, but it can vary depending on the 
+characteristics.)
+<Types of font styles> - There are five main categories:
+Sans-Serif/Suns/Monospace/Handwriting/Display
+* conclusion
+- Like any other design element, typography needs to be structured. - The goal is to create a contrast between the most meaningful and 
+important copy elements that should first be called attention to and the 
+normal textual information. - Brand identity and atmosphere are factors that have a significant impact.
+▶ <consistency>
+What is consistency?
+A: The psychological factor that is treated to ensure that users behave as 
+expected.
+* Consistency distinction
+1. Internal consistency: similar UI scheme within the same brand
+2. External integrity: Common rules for mobile UI, including UI guidelines
+3. Aesthetic consistency: similarity to the initial design (seeing and feeling on 
+the web)
+1. Synonyms
+=Using different words each time to convey the same information can cause 
+serious problems.
+Therefore, you need to establish language rules and stick to them.
+2. Maintaining Homogeneity
+= The point of designing the available options is to make them as clear and 
+consistent as possible.
+(For example, the identity list: adult male/adult female/child, the non-identity 
+list: male/female/glasses-wearing person)
+3. Reductive Inference
+What is reductive reasoning?
+A: It is a process of logical thinking, applying what is learned in one 
+situation to another situation that is new but similar. - Reductive reasoning plays an important role in how usability is 
+experienced.
+(For example, if you see an icon similar to the one you used on another 
+website, intuitively understand what that icon does.)
+4. Standardization - Establish clarity of solution
+(e.g. World Wide Web Consortium = W3C, International Standardization 
+Association = ISO)
+5. There is no natural consistency.
+Example: Green - Progress / Red - Stop
+This is not always 100%.
+6. One button has one function
+- Simplicity solves complexity. 
+(Example: iPhone one-button function) - Consistency and simplicity go hand in hand, but simplicity and ease of use 
+shouldn't be a mix of the East Sea.
+* How to maintain a consistent UI design
+1. Follow our guidelines
+2. Design in a similar pattern to other mobile services in the same category
+3. Make sure it is aesthetically consistent with the service you are designing.
+< consistent use of color in the UI>
+1. KakaoTalk: Use yellow as the same UI color as cacao driver, cacao taxi, 
+cacao bank, etc.
+2. Naver: After adopting green as the brand color, we developed the design 
+as the base color
